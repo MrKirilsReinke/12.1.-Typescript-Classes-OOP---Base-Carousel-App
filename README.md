@@ -6,5 +6,5 @@ npm i
 
 When all packages have been installed run:
 ```
-npm start
+npm run dev
 ```
