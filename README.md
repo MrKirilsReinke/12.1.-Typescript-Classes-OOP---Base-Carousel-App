@@ -60,6 +60,9 @@ const carouselWithLines = new CarouselWithLines('.js-wrapper');
 const carouselWithLinesAndImages = new CarouselWithLinesAndImages('.js-wrapper');
 ```
 
+3. Customize the carousel's appearance and behavior by modifying the provided classes and styles.
+4. Enjoy a feature-rich carousel component with image slides, navigation buttons, interactive lines, and secondary images.
+
 ## Features
 
 * Object-Oriented Programming (OOP): This project follows a robust OOP approach, making it modular, maintainable, and easy to extend. It's structured around classes and objects, which helps keep code organized and allows for the creation of additional components with ease.
