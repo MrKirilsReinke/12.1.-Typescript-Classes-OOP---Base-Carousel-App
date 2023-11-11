@@ -71,10 +71,6 @@ const carouselWithLinesAndImages = new CarouselWithLinesAndImages('.js-wrapper')
 * CarouselWithLinesAndImages: Further extends CarouselWithLines by including secondary images and a timer for automated slideshow functionality.
 * Customizable Styles: Easily modify the CSS styles in the `styles.scss` file to match your project's design.
 
-## License
-
-This project is open-source and is available under the [MIT License](LICENSE). You are free to use, modify, and distribute this project for any purpose.
-
 ## How to Contribute
 
 Contributions to this project are welcome. To contribute, follow these steps:
