@@ -10,7 +10,6 @@ This TypeScript project provides a customizable and interactive carousel compone
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
 - [Features](#features)
 - [How to Contribute](#how-to-contribute)
 
